@@ -1,0 +1,67 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Pikachu",
+      "preco": "139,90",
+      "imagem": "https://cdn.awsli.com.br/600x700/84/84034/produto/128358305/funko-pop--games-5tvht97ybh.jpg"
+      
+    },
+    {
+      "id": "2",
+      "nome": "Eevee",
+      "preco": "129,99",
+      "imagem": "https://cdn.awsli.com.br/64x50/84/84034/produto/113335776/funko-pop--games-4nzhpupwje.jpg"
+      
+    },
+    {
+      "id": "3",
+      "nome": "Dragonite",
+      "preco": "139,99",
+      "imagem": "https://cdn.awsli.com.br/600x700/84/84034/produto/136758514/funko-pop--games-cejotljjoq.jpg"
+      
+    },
+    {
+      "id": "4",
+      "nome": "Lapras",
+      "preco": "142,90",
+      "imagem": "https://cdn.awsli.com.br/600x700/84/84034/produto/…pop--games-pokemon-lapras-864f-600-3z3b0ohfuf.jpg"
+      
+    },
+    {
+      "id": "5",
+      "nome": "Cubone",
+      "preco": "119,99",
+      "imagem": "https://cdn.awsli.com.br/600x700/84/84034/produto/209442753/funko-pop--games-v5jlfxml44.jpg"
+      
+    },
+    {
+      "id": "6",
+      "nome": "Oshawott",
+      "preco": "109,90",
+      "imagem": "https://cdn.awsli.com.br/2500x2500/84/84034/produto/192428179/funko-pop--games-dp7dampq8v.jpg"
+      
+    },
+    {
+      "id": "7",
+      "nome": "Mewtwo",
+      "preco": "175,99",
+      "imagem": "https://cdn.awsli.com.br/2500x2500/84/84034/produto/192428179/funko-pop--games-dp7dampq8v.jpg"
+      
+    },
+    {
+      "id": "8",
+      "nome": "Blaziken",
+      "preco": "189,90",
+      "imagem": "https://cdn.awsli.com.br/600x700/84/84034/produto/275820236/blaziken-a-600-adshfuoreh.jpg"
+      
+    },
+    {
+      "id": "9",
+      "nome": "Lucario",
+      "preco": "489,90",
+      "imagem": "https://cdn.awsli.com.br/600x700/84/84034/produto/249651835/image-600nbvgf-5psps4jrf4.jpg"
+      
+    }
+  ]
+}
